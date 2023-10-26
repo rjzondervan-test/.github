@@ -1,0 +1,41 @@
+contact:
+  email: ''
+  phone: ''
+name: ''
+publiccodeYmlVersion: '0.2'
+softwareOwned:
+- https://github.com/rjzondervan/OR-Testroute
+- https://github.com/rjzondervan/testprotocomponent
+- https://github.com/rjzondervan/memberAdministration-frontend
+- https://github.com/rjzondervan/testgeneratedcomponent1
+- https://github.com/rjzondervan/testgeneratedcomponent2
+- https://github.com/rjzondervan/NL-B-TCSs-for-OpenRails
+- https://github.com/rjzondervan/TestComponent
+- https://github.com/rjzondervan/.github
+softwareSupported:
+- software: https://github.com/rjzondervan/OR-Testroute
+  type: community
+- software: https://github.com/rjzondervan/testprotocomponent
+  type: community
+- software: https://github.com/rjzondervan/memberAdministration-frontend
+  type: community
+- software: https://github.com/rjzondervan/testgeneratedcomponent1
+  type: community
+- software: https://github.com/rjzondervan/testgeneratedcomponent2
+  type: community
+- software: https://github.com/rjzondervan/NL-B-TCSs-for-OpenRails
+  type: community
+- software: https://github.com/rjzondervan/TestComponent
+  type: community
+- software: https://github.com/rjzondervan/.github
+  type: community
+softwareUsed:
+- https://github.com/rjzondervan/OR-Testroute
+- https://github.com/rjzondervan/testprotocomponent
+- https://github.com/rjzondervan/memberAdministration-frontend
+- https://github.com/rjzondervan/testgeneratedcomponent1
+- https://github.com/rjzondervan/testgeneratedcomponent2
+- https://github.com/rjzondervan/NL-B-TCSs-for-OpenRails
+- https://github.com/rjzondervan/TestComponent
+- https://github.com/rjzondervan/.github
+website: ''
