@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update publiccode.yaml
-        uses: OpenCatalogi/publiccode-action@4fddc66d41e1a22b4c25a53baf2ec33cbcd7221b
+        uses: OpenCatalogi/publiccode-action@b2008af8b5337058793d9d9e25e23cdb07a21ee4
