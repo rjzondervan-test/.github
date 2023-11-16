@@ -3,7 +3,6 @@ contact:
   phone: ''
 members:
 - https://github.com/geleiding
-name: ''
 publiccodeYmlVersion: '0.2'
 softwareOwned:
 - https://github.com/rjzondervan/OR-Testroute
